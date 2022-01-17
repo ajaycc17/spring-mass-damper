@@ -1,0 +1,6 @@
+Ajay Choudhury----5th Sem Project for Control Systems in IISERB
+
+Problems for the above assignment of Spring Mass Damper System are given at the back of the Control Systems text book in the repository of iiserb_eecs_materials/5_Fifth_Sem/Control Systems.
+
+Other Solved projects can be found at: https://magiccvs.byu.edu/gitlab/control_book/control_book_public_solutions
+Main site: controlbook.byu.edu
